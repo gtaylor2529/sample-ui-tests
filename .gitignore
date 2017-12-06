@@ -1,0 +1,7 @@
+.idea
+sample-ui-tests.iml
+target
+.settings
+.classpath
+.project
+*.DS_Store
