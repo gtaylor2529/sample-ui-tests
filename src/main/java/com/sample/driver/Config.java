@@ -17,8 +17,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class Config {
 
-  private static final String USERNAME = "garethjoyce1";
-  private static final String AUTOMATE_KEY = "kAtRujki4zU2Wz7REkYr";
+  private static final String USERNAME = "";
+  private static final String AUTOMATE_KEY = "";
   private static final String URL =
       "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
   private static WebDriver driver;
